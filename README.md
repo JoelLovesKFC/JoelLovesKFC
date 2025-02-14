@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an online library system<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently creating school marking system<br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning html/css<br>💬 Ask me about<br>
 
 
 # 💻 Tech Stack:
