@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently creating school marking system<br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning html/css<br>💬 Ask me about<br>
 
 
 # 💻 Tech Stack:
