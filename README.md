@@ -25,7 +25,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JoelLovesKFC/JoelLovesKFC/output/snake.svg" alt="Snake animation" />
-
-###
