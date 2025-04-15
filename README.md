@@ -26,22 +26,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JoelLovesKFC/count.svg?"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelLovesKFC/JoelLovesKFC/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelLovesKFC/JoelLovesKFC/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoelLovesKFC/JoelLovesKFC/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=JoelLovesKFC&theme=synthwave" alt="Layout with last medium posts"  />
-</div>
+<img src="https://raw.githubusercontent.com/JoelLovesKFC/JoelLovesKFC/output/snake.svg" alt="Snake animation" />
 
 ###
