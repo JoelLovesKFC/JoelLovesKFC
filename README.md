@@ -1,17 +1,5 @@
 <h1 align="center">Hi , I'm Joel</h1>
-<h3 align="center">A passionate unemployed fullstackdeveloper from Australia</h3>
-
--  I’m currently working on **L.Y.R.A**
-
--  I’m currently learning **system design for backend systems**
-
--  I’m looking to collaborate on **Downloads Managers for X - with dashboard included**
-
--  I’m looking for help with **designing good ai sematic memory**
-
--  All of my projects are available at [I'll release them when they safe and done](I'll release them when they safe and done)
-
--  Fun fact **i don't think i even vibe code at this point, if im having to change everything it makes**
+<h3 align="center"> a unemployed fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
